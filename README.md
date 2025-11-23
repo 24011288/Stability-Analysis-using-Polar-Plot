@@ -7,6 +7,8 @@ Computer with MATLAB software
 ## Theory:
 ![3](https://github.com/user-attachments/assets/dade5c0e-af6f-4358-ae93-ac72219a7789)
 ![4](https://github.com/user-attachments/assets/eb177c38-eaa3-4618-9478-2da8854ef183)
+<img width="1054" height="1364" alt="image" src="https://github.com/user-attachments/assets/40a073aa-952d-4b40-bc75-0323b6a0aa34" />
+
 
 
 
